@@ -1,0 +1,43 @@
+#home-section {
+    background: url('/src/img/desert.jpg') no-repeat center top;
+    background-size: cover;
+    min-height: 700px;
+    color:white;
+}
+#home-section .dark-overlay{
+    background: rgba(0,0,0,0.8);
+    min-height: 700px;
+}
+.fa{
+    padding: 7px;
+    border-radius: 3px;
+    font-size: 40px;
+    rounded:circle;
+
+}
+
+.fa.fa-youtube-play{
+    background: white;
+    color: red;
+}
+.fa.fa-facebook{
+    background: white;
+    color: blue;
+}
+.row .col-md-8 .lead a{
+    text-decoration: none;
+}
+.home-inner{
+    padding-top: 150px;
+}
+.card{
+    height: 400px;
+}
+#home-section input{
+    font-size:18px
+}
+@media all and (max-width: 768px){
+
+}
+
+

@@ -1,0 +1,16 @@
+#VideoSection .card:hover{
+    background: orangered;
+    color:white;
+    transition: 1.5s;
+}
+#VideoSection .card{
+    height: 504px;
+    background: navajowhite;
+    padding-bottom: 60px;
+}
+
+@media all and (max-width:768px) {
+   #VideoSection .card {
+        max-height: 300px;
+    }
+}
