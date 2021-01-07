@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class ReactProject extends Component {
     render() {
         return (
-            <div>
+            <div style={{paddingTop: "7rem"}}>
                 <h2 className="">React Js</h2>
             </div>
         );

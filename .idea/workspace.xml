@@ -11,8 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9b07b40-3008-4730-90d5-ad68a2508465" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Video/ResponsiveVideoPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Video/ResponsiveVideoPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/DemoNavbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/DemoNavbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/ContactPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/ContactPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Project/AngularProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/AngularProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Project/DjangoProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/DjangoProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Project/NodeJsProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/NodeJsProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Project/PHP_Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/PHP_Project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Project/ReactProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/ReactProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Project/UiDesignGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/UiDesignGallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +43,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lgnnJ3KFjZL3d7pMjFnN5Xmmdn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,6 +146,13 @@
       <workItem from="1609757578082" duration="2077000" />
       <workItem from="1609760091647" duration="700000" />
       <workItem from="1609784310906" duration="898000" />
+      <workItem from="1609789902830" duration="644000" />
+      <workItem from="1609835806726" duration="1294000" />
+      <workItem from="1609837601994" duration="1670000" />
+      <workItem from="1609839577061" duration="1246000" />
+      <workItem from="1609877729232" duration="1613000" />
+      <workItem from="1609879602354" duration="6925000" />
+      <workItem from="1609920916163" duration="587000" />
     </task>
     <servers />
   </component>

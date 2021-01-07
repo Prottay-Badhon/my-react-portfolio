@@ -22,7 +22,7 @@ class DemoNavbar extends Component {
         return (
             <>
 
-                <div id="Demo" className="fixed-top mb-0">
+                <div id="Demo" className="fixed-top">
                     <nav className="">
                         <div>
                             <a className="navbar-brand">React Portfolio</a>
@@ -31,18 +31,18 @@ class DemoNavbar extends Component {
                             <ul className="nav-links" style={{ transform: this.state.Open ? "translateX(0px)" : ""}}>
 
                                 <li className="nav-item">
-                                    <NavLink to="/" exact className="nav-link" activeStyle={{color: "Orange"}} style={{color: "black"}}>
+                                    <NavLink to="/" exact className="nav-link" activeStyle={{color: "Orange"}}>
                                         Home
                                     </NavLink>
                                 </li>
 
                                 <li className="nav-item">
-                                    <NavLink to="/about" exact className="nav-link" activeStyle={{color: "Orange"}} style={{color: "black"}}>
+                                    <NavLink to="/about" exact className="nav-link" activeStyle={{color: "Orange"}}>
                                         About
                                     </NavLink>
                                 </li>
                                 <li className="nav-item">
-                                    <NavLink to="/service" exact className="nav-link" activeStyle={{color: "Orange"}} style={{color: "black"}}>
+                                    <NavLink to="/service" exact className="nav-link" activeStyle={{color: "Orange"}}>
                                         Service
                                     </NavLink>
                                 </li>
@@ -50,13 +50,13 @@ class DemoNavbar extends Component {
 
 
                                 <li className="nav-item">
-                                    <NavLink to="/portfolio" exact className="nav-link" activeStyle={{color: "Orange"}} style={{color: "black"}}>
+                                    <NavLink to="/portfolio" exact className="nav-link" activeStyle={{color: "Orange"}}>
                                         Portfolio
                                     </NavLink>
                                 </li>
 
                                 <li className="nav-item">
-                                    <NavLink to="/contact" exact className="nav-link" activeStyle={{color: "Orange"}} style={{color: "black"}}>
+                                    <NavLink to="/contact" exact className="nav-link" activeStyle={{color: "Orange"}} >
                                         Contact
                                     </NavLink>
                                 </li>

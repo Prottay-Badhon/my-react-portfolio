@@ -12,6 +12,7 @@ class UiDesignGallery extends Component {
     render() {
         return (
             <>
+                <div className="bg-light" style={{paddingTop: "7rem"}}>
                 <div className="container">
                 <div className="row">
                     <div className="col-lg-12">
@@ -21,7 +22,7 @@ class UiDesignGallery extends Component {
 
                     </div>
                 </div>
-            <div className="row my-5">
+            <div className="row mt-5">
                 <div className="col-lg-12">
                     <h2>Font Page</h2>
                     <img src={newsportal1} alt="" className="img-fluid"/>
@@ -42,6 +43,21 @@ class UiDesignGallery extends Component {
                 </div>
             </div>
               </div>
+                    <div className="row">
+                        <div className="col-lg-12">
+                            <h4 className="">Here Is the Github Link Of Mizuxe-Bootstrap Project</h4>
+                            <a href="https://prottay-badhon.github.io/Mizuxe/" target="_blank" className="btn btn-success">Mizuxe-Link</a>
+
+                        </div>
+                    </div>
+                    <div className="row mt-5 py-5">
+                        <div className="col-lg-12">
+                            <h4 className="">Here Is the Github Link Of LoopLab-Bootstrap Project</h4>
+                            <a href="https://prottay-badhon.github.io/Glozzom/" target="_blank" className="btn btn-success">LoopLab-Link</a>
+
+                        </div>
+                    </div>
+                </div>
                 <Footer></Footer>
 
             </>

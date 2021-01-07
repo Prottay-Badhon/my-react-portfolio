@@ -70,7 +70,7 @@
     font-size: 25px;
     text-transform: uppercase;
     cursor: pointer;
-    color: blue;
+    color: #051ec3;
     font-weight: bold;
 }
 
@@ -78,7 +78,9 @@
     display: flex;
     justify-content: space-around;
     width: 30%;
+    color:white;
 }
+
 #Demo nav  li {
    font-weight: bold;
 }
@@ -101,7 +103,7 @@
      #Demo nav .nav-links{
          position: absolute;
          height: 400px;
-         width: 100%;
+         width: 60%;
          left: 0px;
          margin-top: 466px;
          display: block;
@@ -111,6 +113,7 @@
          transform: translateX(-1000px);
          transition: 1s;
          z-index: 9999;
+
      }
      #CardSection{
          margin-top: 400px;
@@ -120,6 +123,7 @@
          border-bottom: 1px solid white;
          justify-content: center;
          padding: 8px;
+
      }
      #Demo nav .nav-links li:last-of-type{
          border-bottom: 0px solid white;
@@ -131,6 +135,10 @@
          cursor: pointer;
          color:navajowhite;
 
+     }
+
+     #Demo nav li .nav-link{
+         color: white;
      }
  }
 
@@ -144,9 +152,7 @@
 
     }
 @media all and (max-width: 768px){
-    #about{
 
-    }
     #imageDiv{
         height: 400px;
 

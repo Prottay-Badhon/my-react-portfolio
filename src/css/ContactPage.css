@@ -37,7 +37,9 @@
     font-size:18px
 }
 @media all and (max-width: 768px){
-
+#home-section .display-5{
+        font-size: 30px;
+}
 }
 
 
