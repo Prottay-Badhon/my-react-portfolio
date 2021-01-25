@@ -6,7 +6,7 @@ class Footer extends Component {
         return (
             <>
                 <div className="" style={{background: "#090c33"}}>
-                <div className="container">
+                <div className="container text-center">
                     <div className="row align-items-center" style={{height: "500px"}}>
                         <div className="col-lg-12 text-light ">
                             <h3 className="px-5" style={{}}>PORTFOLIO</h3>

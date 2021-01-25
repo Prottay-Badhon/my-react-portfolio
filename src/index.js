@@ -2,10 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import MyRouter from ".././src/component/MyRouter"
+import {Redirect} from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
-
+import axios from "axios";
+axios.defaults.baseURL="http://localhost:8000/api/";
+axios.defaults.headers['Authorization']='Bearer '+localStorage.getItem("token");
 var myRoute =(
-    <App></App>
+    <MyRouter></MyRouter>
 
 )
 ReactDOM.render(myRoute,document.getElementById('root'));

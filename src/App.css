@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -101,11 +99,12 @@
      }
 
      #Demo nav .nav-links{
+
          position: absolute;
-         height: 400px;
+         height: 600px;
          width: 60%;
          left: 0px;
-         margin-top: 466px;
+         margin-top: 566px;
          display: block;
          background: #640994;
         justify-content: center;

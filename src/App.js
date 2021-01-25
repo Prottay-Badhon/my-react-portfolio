@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
         <BrowserRouter>
-            <DemoNavbar></DemoNavbar>
             <MyRouter></MyRouter>
+            <DemoNavbar></DemoNavbar>
         </BrowserRouter>
 
     </div>

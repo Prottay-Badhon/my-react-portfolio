@@ -9,10 +9,12 @@ import ContactMe from "../component/ContactMe";
 import FeedBack from "../component/FeedBack";
 import Footer from "../component/Footer";
 import DemoCarousel from "../component/DemoCarousel";
+import DemoNavbar from "../component/DemoNavbar"
 class Home extends Component {
     render() {
         return (
             <>
+                <DemoNavbar></DemoNavbar>
                 <CarouselSection></CarouselSection>
                 <Faq></Faq>
                 <CardSection></CardSection>

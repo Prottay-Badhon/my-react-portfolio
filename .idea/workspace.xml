@@ -13,18 +13,12 @@
     <list default="true" id="a9b07b40-3008-4730-90d5-ad68a2508465" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/DemoNavbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/DemoNavbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/ContactPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/ContactPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Project/AngularProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/AngularProject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Project/DjangoProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/DjangoProject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Project/NodeJsProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/NodeJsProject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Project/PHP_Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/PHP_Project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Project/ReactProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/ReactProject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Project/UiDesignGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Project/UiDesignGallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MyRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MyRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,12 +46,13 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mynameisbos" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -153,6 +148,26 @@
       <workItem from="1609877729232" duration="1613000" />
       <workItem from="1609879602354" duration="6925000" />
       <workItem from="1609920916163" duration="587000" />
+      <workItem from="1610473251433" duration="145000" />
+      <workItem from="1611085564810" duration="903000" />
+      <workItem from="1611087410200" duration="1402000" />
+      <workItem from="1611089559856" duration="1640000" />
+      <workItem from="1611091607645" duration="1616000" />
+      <workItem from="1611093397745" duration="730000" />
+      <workItem from="1611164173435" duration="1579000" />
+      <workItem from="1611165913797" duration="1765000" />
+      <workItem from="1611168128545" duration="3014000" />
+      <workItem from="1611171367912" duration="1707000" />
+      <workItem from="1611173563906" duration="1318000" />
+      <workItem from="1611175831849" duration="1717000" />
+      <workItem from="1611220626508" duration="1214000" />
+      <workItem from="1611222233362" duration="1632000" />
+      <workItem from="1611224298233" duration="1595000" />
+      <workItem from="1611226091575" duration="1687000" />
+      <workItem from="1611228093403" duration="1606000" />
+      <workItem from="1611229972502" duration="880000" />
+      <workItem from="1611231980677" duration="1443000" />
+      <workItem from="1611233876395" duration="2877000" />
     </task>
     <servers />
   </component>
@@ -177,10 +192,11 @@
     </state>
     <state x="409" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1287.768@0.0.1287.768" timestamp="1608202168146" />
     <state x="278" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1293.768@0.0.1293.768" timestamp="1609662950248" />
-    <state x="427" y="138" key="FileChooserDialogImpl" timestamp="1609269991380">
-      <screen x="0" y="0" width="1296" height="768" />
+    <state x="425" y="138" key="FileChooserDialogImpl" timestamp="1611172224431">
+      <screen x="0" y="0" width="1290" height="768" />
     </state>
     <state x="423" y="138" key="FileChooserDialogImpl/0.0.1287.768@0.0.1287.768" timestamp="1608065131861" />
+    <state x="425" y="138" key="FileChooserDialogImpl/0.0.1290.768@0.0.1290.768" timestamp="1611172224431" />
     <state x="425" y="138" key="FileChooserDialogImpl/0.0.1291.768@0.0.1291.768" timestamp="1609020650877" />
     <state x="425" y="138" key="FileChooserDialogImpl/0.0.1292.768@0.0.1292.768" timestamp="1608831051539" />
     <state x="427" y="138" key="FileChooserDialogImpl/0.0.1296.768@0.0.1296.768" timestamp="1609269991380" />
